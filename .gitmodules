@@ -1,0 +1,3 @@
+[submodule "GreetingProcessorProject"]
+	path = GreetingProcessorProject
+	url = https://github.com/MattGon13/GreetingProcessorProject.git
