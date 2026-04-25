@@ -1,3 +1,6 @@
 [submodule "GreetingProcessorProject"]
 	path = GreetingProcessorProject
 	url = https://github.com/MattGon13/GreetingProcessorProject.git
+[submodule "CoolWeatherAppTP3"]
+	path = CoolWeatherAppTP3
+	url = https://github.com/MattGon13/Cool-Weather-App-TP3.git
