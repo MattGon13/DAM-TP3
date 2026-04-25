@@ -1,0 +1,65 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CoolWeatherAppTP3" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name ="colorPrimary">@color/lightOrange</item >
+        <item name ="colorPrimaryVariant">@color/darkOrange</item >
+        <item name ="colorOnPrimary">@color/creamWhite</item >
+        <!-- Secondary brand color -->
+        <item name ="colorSecondary">@color/lightBlue</item >
+        <item name ="colorSecondaryVariant">@color/darkBlue</item >
+        <item name ="colorOnSecondary">@color/creamWhite</item >
+        <!-- Status bar color -->
+        <item name ="android:statusBarColor">?attr/colorPrimaryVariant</item >
+        <!-- Customize your theme here -->
+        <item name ="background">@color/lightBlue</item >
+        <item name ="android:textColor">@color/darkBlue</item >
+        <item name ="android:textSize">20sp </item >
+        <item name ="android:textStyle">bold </item >
+    </style >
+
+    <style name ="Theme.Day" parent ="Base.Theme.CoolWeatherAppTP3">
+        <item name ="android:windowBackground">@drawable/background_clouds</item >
+    </style >
+
+    <style name ="Theme.Day.Land" parent ="Base.Theme.CoolWeatherAppTP3">
+        <item name ="android:windowBackground">@drawable/background_clouds_land</item >
+    </style >
+
+    <style name ="Theme.Night" parent ="Base.Theme.CoolWeatherAppTP3">
+        <item name ="android:windowBackground">@drawable/night_background</item >
+        <item name ="colorPrimary">@color/lightBlue</item >
+        <item name ="colorPrimaryVariant">@color/darkBlue</item >
+        <item name ="colorOnPrimary">@color/creamWhite</item >
+        <!-- Secondary brand color -->
+        <item name ="colorSecondary">@color/lightOrange</item >
+        <item name ="colorSecondaryVariant">@color/darkOrange</item >
+        <item name ="colorOnSecondary">@color/creamWhite</item >
+        <!-- Status bar color -->
+        <item name ="android:statusBarColor">?attr/colorPrimaryVariant</item >
+        <!-- Customize your theme here -->
+        <item name ="android:textColor">@color/darkBlue</item >
+        <item name ="android:textSize">20sp </item >
+        <item name ="android:textStyle">bold </item >
+    </style >
+
+    <style name ="Theme.Night.Land" parent ="Base.Theme.CoolWeatherAppTP3">
+        <item name ="android:windowBackground">@drawable/night_background_land</item >
+        <item name ="colorPrimary">@color/lightBlue</item >
+        <item name ="colorPrimaryVariant">@color/darkBlue</item >
+        <item name ="colorOnPrimary">@color/creamWhite</item >
+        <!-- Secondary brand color -->
+        <item name ="colorSecondary">@color/lightOrange</item >
+        <item name ="colorSecondaryVariant">@color/darkOrange</item >
+        <item name ="colorOnSecondary">@color/creamWhite</item >
+        <!-- Status bar color -->
+        <item name ="android:statusBarColor">?attr/colorPrimaryVariant</item >
+        <!-- Customize your theme here -->
+        <item name ="android:textColor">@color/darkBlue</item >
+        <item name ="android:textSize">20sp </item >
+        <item name ="android:textStyle">bold </item >
+    </style >
+
+    <style name="Theme.CoolWeatherAPP" parent="Base.Theme.CoolWeatherAppTP3" />
+</resources>

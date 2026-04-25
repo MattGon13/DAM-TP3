@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_codes">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>45</item>
+        <item>48</item>
+        <item>51</item>
+        <item>53</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>61</item>
+        <item>63</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>71</item>
+        <item>73</item>
+        <item>75</item>
+        <item>77</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>85</item>
+        <item>86</item>
+        <item>95</item>
+        <item>96</item>
+        <item>99</item>
+    </string-array>
+
+    <string-array name="weather_descriptions">
+        <item>CLEAR_SKY</item>
+        <item>MAINLY_CLEAR</item>
+        <item>PARTLY_CLOUDY</item>
+        <item>OVERCAST</item>
+        <item>FOG</item>
+        <item>DEPOSITING_RIME_FOG</item>
+        <item>DRIZZLE_LIGHT</item>
+        <item>DRIZZLE_MODERATE</item>
+        <item>DRIZZLE_DENSE</item>
+        <item>FREEZING_DRIZZLE_LIGHT</item>
+        <item>FREEZING_DRIZZLE_DENSE</item>
+        <item>RAIN_SLIGHT</item>
+        <item>RAIN_MODERATE</item>
+        <item>RAIN_HEAVY</item>
+        <item>FREEZING_RAIN_LIGHT</item>
+        <item>FREEZING_RAIN_HEAVY</item>
+        <item>SNOW_FALL_SLIGHT</item>
+        <item>SNOW_FALL_MODERATE</item>
+        <item>SNOW_FALL_HEAVY</item>
+        <item>SNOW_GRAINS</item>
+        <item>RAIN_SHOWERS_SLIGHT</item>
+        <item>RAIN_SHOWERS_MODERATE</item>
+        <item>RAIN_SHOWERS_VIOLENT</item>
+        <item>SNOW_SHOWERS_SLIGHT</item>
+        <item>SNOW_SHOWERS_HEAVY</item>
+        <item>THUNDERSTORM_SLIGHT_MODERATE</item>
+        <item>THUNDERSTORM_HAIL_SLIGHT</item>
+        <item>THUNDERSTORM_HAIL_HEAVY</item>
+    </string-array>
+
+    <string-array name="weather_images">
+        <item>clear_</item>
+        <item>mostly_clear_</item>
+        <item>partly_cloudy_</item>
+        <item>cloudy</item>
+        <item>fog</item>
+        <item>fog</item>
+        <item>drizzle</item>
+        <item>drizzle</item>
+        <item>drizzle</item>
+        <item>freezing_drizzle</item>
+        <item>freezing_drizzle</item>
+        <item>rain_light</item>
+        <item>rain</item>
+        <item>rain_heavy</item>
+        <item>freezing_rain_light</item>
+        <item>freezing_rain_heavy</item>
+        <item>snow_light</item>
+        <item>snow</item>
+        <item>snow_heavy</item>
+        <item>snow</item>
+        <item>rain_light</item>
+        <item>rain</item>
+        <item>rain_heavy</item>
+        <item>snow_light</item>
+        <item>snow_heavy</item>
+        <item>tstorm</item>
+        <item>tstorm</item>
+        <item>tstorm</item>
+    </string-array>
+
+
+</resources>
